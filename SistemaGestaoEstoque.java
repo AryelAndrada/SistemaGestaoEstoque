@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class trabalhoGrauA {
+public class SistemaGestaoEstoque {
 
     // Variáveis da maior venda
     static String maiorNome = "";
