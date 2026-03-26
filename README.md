@@ -49,12 +49,26 @@ Este projeto faz parte do meu processo de transição para a área de tecnologia
 - Magno Augusto Castro Braccini  
 - Natan Victor Da Rosa De Oliveira  
 
-## Como executar
+## Como executar 
+
+(Certifique-se de ter o Java JDK instalado na máquina.)
 
 1. Compile o arquivo:
-   javac Sistema de gestão de vendas e estoque em Java.java
+   javac SistemaGestaoEstoque.java
 2. Execute o programa:
-   java Sistema de gestão de vendas e estoque em Java
+   java SistemaGestaoEstoque
+
+## Demonstração
+..:: MERCADINHO ::..
+
+1 - Registrar Venda
+2 - Repor Estoque
+3 - Mostrar Estoque
+4 - Histórico de Vendas
+5 - Maior Venda
+6 - Integrantes
+7 - Sair
+   
 ## Observações
 
 Projeto acadêmico com foco em aprendizado prático. O código pode ser evoluído futuramente para uma estrutura mais modular e orientada a objetos.
